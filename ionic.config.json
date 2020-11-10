@@ -1,0 +1,7 @@
+{
+  "name": "zapfacil",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
